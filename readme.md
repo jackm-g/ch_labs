@@ -1,5 +1,10 @@
 # Getting Strted with Github for Windows 10
-
+- [Getting Strted with Github for Windows 10](#getting-strted-with-github-for-windows-10)
+  * [Install Git for Windows](#install-git-for-windows)
+  * [Create a Github Account](#create-a-github-account)
+  * [Create a Repository and Clone it](#create-a-repository-and-clone-it)
+  * [Push Your Code up to Github](#push-your-code-up-to-github)
+- [Source Tree Github](#source-tree-github)
 ## Install Git for Windows
 
 **Steps**

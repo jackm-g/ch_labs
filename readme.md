@@ -34,7 +34,7 @@ A github account allows you to create online repositories on https://www.github.
 2) Fill out the fields to create a new repository.
 3) Now we will clone this repository down to the local computer. Copy the URL displayed on your new repository page:
 
-<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/account_httpslink.PNG" width="400"/>
+<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/account_httpslink.PNG" width="700"/>
 
 4) Open up the windows cmd.exe. You can find this by clicking the windows/start button and searching 'cmd'. It looks like this:
 
@@ -102,6 +102,7 @@ that you want to add all of the new files you've made to your repository.
 This can be done by issuing the command `git config user.email "your.email@gmail.com"`. This needs to be the same email you used for your github account. 
 7) now re-type the `git commit -m "message"` command. once it completes, we are ready to push our changes up to the repository.
 8) Type `git push` and hit enter. If this completes successfully you can now refresh your repository's webpage on github and see the files you've added. Congrats!
+
 Note: You may get a window that prompty you for your Github username/password. Enter it and the command should complete successfully. It looks like this:
 
 <img src="https://github.com/jackg-ch/ch_labs/blob/master/images/git_password.PNG" width="400"/>

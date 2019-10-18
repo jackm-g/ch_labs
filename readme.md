@@ -24,16 +24,16 @@ A github account allows you to create online repositories on https://www.github.
 **Steps**
 1) Sign into your GitHub account and navigate to https://github.com/new
 
-<img src="./images/account_newrepo" style="width:200px;"/>
+<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/account_newrepo.PNG" style="width:200px;"/>
 
 2) Fill out the fields to create a new repository.
 3) Now we will clone this repository down to the local computer. Copy the URL displayed on your new repository page:
 
-<img src="./images/account_httpsurl" style="width:200px;"/>
+<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/account_httpslink.PNG" style="width:200px;"/>
 
 4) Open up the windows cmd.exe. You can find this by clicking the windows/start button and searching 'cmd'. It looks like this:
 
-<img src="./images/git_cmd" style="width:200px;"/>
+<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/git_cmd.PNG" style="width:200px;"/>
 
 5) In the cmd window, you want to type 'git clone' and then paste the url from step 4.
 
@@ -44,7 +44,7 @@ The command should look like this, although the URL should be your own repositor
 `
 
 it will look like this:
-<img src="./images/git_clone" style="width:200px;"/>
+<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/git_clone.PNG" style="width:200px;"/>
 
 
 

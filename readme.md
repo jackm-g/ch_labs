@@ -1,5 +1,5 @@
-# Getting Strted with Github for Windows 10
-- [Getting Strted with Github for Windows 10](#getting-strted-with-github-for-windows-10)
+# Getting Started with Github for Windows 10
+- [Getting Started with Github for Windows 10](#getting-strted-with-github-for-windows-10)
   * [Install Git for Windows](#install-git-for-windows)
   * [Create a Github Account](#create-a-github-account)
   * [Create a Repository and Clone it](#create-a-repository-and-clone-it)
@@ -104,7 +104,7 @@ This can be done by issuing the command `git config user.email "your.email@gmail
 8) Type `git push` and hit enter. If this completes successfully you can now refresh your repository's webpage on github and see the files you've added. Congrats!
 Note: You may get a window that prompty you for your Github username/password. Enter it and the command should complete successfully. It looks like this:
 
-<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/git_password.PNG" width="300"/>
+<img src="https://github.com/jackg-ch/ch_labs/blob/master/images/git_password.PNG" width="400"/>
 
 
 
